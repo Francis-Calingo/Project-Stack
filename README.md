@@ -1,6 +1,16 @@
 # Project Stack
 <p>Here is a sample list of projects categorized by topic. Some projects appear more than once since they cover more than one topic (for example, the project "Using YouTube API to Visualize and Analyze OMNI Filipino's News Coverage in 2024" incorporated elements of data visualization and natural language processing, and is therefore listed under both topics). Some of these projects are not hosted in my GitHub profile, but are instead hosted in external websites such as Tableau Public.</p>
 
+## Table of Contents
+* [Labels](#labels-tools-used)
+* [Data Visualization and Analysis](#data-visualization-and-analysis)
+* [Mapping and Geospatial Analysis](#mapping-and-geospatial-analysis)
+* [Machine Learning](#machine-learning)
+* [Statistical Analysis](#statistical-analysis)
+* [Natural Language Processing](#natural-language-processing)
+* [Webscraping](#webscraping)
+* [Repos Under Construction](#repos-under-construction)
+
 #### Labels: Tools Used
 🔵 R and RStudio, 🟠Python and/or Jupyter Notebook, 🟡SQL (e.g., SQLlite, PostgreSQL), 🟢Excel and Google Sheets, 📊Tableau, 🌎ArcGIS
 
@@ -15,6 +25,10 @@
 
 <a href="https://github.com/Francis-Calingo/YouTube-API-Analysis-OMNI-Filipino-News"> Using YouTube API to Visualize and Analyze OMNI Filipino's News Coverage in 2024</a>🟠💻
 
+<a href="https://github.com/Francis-Calingo/IBM-Capstone-1"> IBM Data Science Capstone Project: Stock Price Analysis</a>🟠💻
+
+<a href="https://github.com/Francis-Calingo/IBM-Capstone-2"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>🟠🟡💻
+
 <a href="https://github.com/Francis-Calingo/NHL-POINT-PERCENTAGE-ANALYSIS"> NHL Point Percentage Visualization and Analysis</a>🟠🟢🏠
 
 <a href="https://public.tableau.com/app/profile/francis.emmanuel.calingo/viz/DataonRegisteredFilipinoEmigrantsSincethe1980s/Dashboard1"> Tableau Dashboard of Registered Filipino Emigrants Since the 1980s</a>📊🟢🏠
@@ -27,6 +41,8 @@
 
 <a href="https://github.com/Francis-Calingo/Visualizing-Migration-in-Canada"> Visualizing Migration and Settlement Patterns in Canada</a>🟠🟢💻
 
+<a href="https://github.com/Francis-Calingo/IBM-Capstone-2"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>🟠💻
+
 <a href="https://github.com/Francis-Calingo/Transit-and-Healthcare-Accessibility-in-the-Toronto-Filipino-Communities"> Mapping Transit and Healthcare Accessibility in Toronto Filipino Communities</a>🌎💻
 
 <a href="https://public.tableau.com/app/profile/francis.emmanuel.calingo/viz/DataonRegisteredFilipinoEmigrantsSincethe1980s/Dashboard1"> Tableau Dashboard of Registered Filipino Emigrants Since the 1980s</a>📊🟢🏠
@@ -38,6 +54,8 @@
 
 <a href="https://github.com/Francis-Calingo/Canadian-Rental-Prices-and-Immigration-ML-Predictive-Model"> Regression Modelling to Predict Canadian Rental Prices Based on Immigration Data</a>🟠🟢💻
 
+<a href="https://github.com/Francis-Calingo/IBM-Capstone-2"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>🟠🟡💻
+
 ## Statistical Analysis
 <a href="https://github.com/Francis-Calingo/CATEGORICAL-SOCIOECONOMIC-DATA-ANALYSIS-OF-CANADIAN-REGIONS"> Categorical Data Analysis Using R (Canadian Census Divisions)</a>🔵🟢🎓
 
@@ -47,6 +65,13 @@
 <a href="https://github.com/Francis-Calingo/YouTube-API-Analysis-OMNI-Filipino-News"> Using YouTube API to Visualize and Analyze OMNI Filipino's News Coverage in 2024</a>🟠💻
 
 <a href="https://github.com/Francis-Calingo/Fake-News-Classification-Model-Kaggle"> Kaggle Challenge: Fake News Classification Model</a>🟠💻
+
+## Webscraping
+
+<a href="https://github.com/Francis-Calingo/IBM-Capstone-1"> IBM Data Science Capstone Project: Stock Price Analysis</a>🟠💻
+
+<a href="https://github.com/Francis-Calingo/IBM-Capstone-2"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>🟠🟡💻
+
 
 ## Repos Under Construction
 <a href="https://github.com/Francis-Calingo/Socioeconomic-Analysis-of-The-Philippines"> Socioeconomic Analysis of the Philippines</a>🏠
