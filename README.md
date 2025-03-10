@@ -1,8 +1,8 @@
-# Table of Contents
+# Project Stack
 <p>Here is a sample list of projects categorized by topic. Some projects appear more than once since they cover more than one topic (for example, the project "Using YouTube API to Visualize and Analyze OMNI Filipino's News Coverage in 2024" incorporated elements of data visualization and natural language processing, and is therefore listed under both topics). Some of these projects are not hosted in my GitHub profile, but are instead hosted in external websites such as Tableau Public.</p>
 
 #### Labels: Tools Used
-🔵 R and RStudio, 🟠Python and/or Jupyter Notebook, 🟢Excel and Google Sheets, 📊Tableau, 🌎ArcGIS
+🔵 R and RStudio, 🟠Python and/or Jupyter Notebook, 🟡SQL (e.g., SQLlite, PostgreSQL), 🟢Excel and Google Sheets, 📊Tableau, 🌎ArcGIS
 
 #### Labels: Deployment Environment
 🎓University, 💼For an Employer, 💻Capstone Project, 🏠Personal Project
