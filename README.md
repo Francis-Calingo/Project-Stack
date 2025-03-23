@@ -97,7 +97,7 @@ While manually getting data from a website technically qualifies as webscarping,
 ## Repos Under Construction
 Once deployed, these projects will be removed from this section and assigned to at least one of the above sections.
 
-<a href="https://github.com/Francis-Calingo/Socioeconomic-Analysis-of-The-Philippines"> Socioeconomic Analysis of the Philippines</a>🏠
+<a href="https://github.com/Francis-Calingo/Socioeconomic-Analysis-of-The-Philippines"> Dashboard of the Philippine's Economic Crisis</a>🟠🟡🏠
 
 <a href="https://github.com/Francis-Calingo/Francis-Calingo.github.io"> GitHub.io Portfolio Website</a>🏠
 
