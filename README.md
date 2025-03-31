@@ -145,4 +145,4 @@ Once deployed, these projects will be removed from this section and assigned to 
 
 <a href="https://github.com/Francis-Calingo/Francis-Calingo.github.io"> GitHub.io Portfolio Website</a>🏠
 
-
+<a href="https://github.com/Francis-Calingo/MS-Azure-Projects"> Azure Projects</a>
