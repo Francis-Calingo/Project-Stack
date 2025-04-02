@@ -141,11 +141,17 @@ While manually getting data from a website technically qualifies as webscraping,
 These projects employed various tools to develop and deploy websites and web applications.
 
 <a href="https://fecaling1997.z9.web.core.windows.net/"> Static Online Resume Hosted in Azure</a>
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" alt="Azure Badge"/>
 
 ## Cloud Environment
 These projects have been deployed in a Cloud environment (e.g., MS Azure).
 
 <a href="https://fecaling1997.z9.web.core.windows.net/"> Static Online Resume Hosted in Azure</a>
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" alt="Azure Badge"/>
 
 ## Repos Under Construction
 Once deployed, these projects will be removed from this section and assigned to at least one of the above sections.
