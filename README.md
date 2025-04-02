@@ -10,6 +10,8 @@
 * [Time-Series Analysis](#time-series-analysis)
 * [Natural Language Processing](#natural-language-processing)
 * [Webscraping](#webscraping)
+* [Web development](#web-development)
+* [Cloud Environment](#cloud-environment)
 * [Repos Under Construction](#repos-under-construction)
 
 #### Labels: Deployment Environment
@@ -126,7 +128,7 @@ These projects implements algortithms that allow computers to understand, interp
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 ## Webscraping
-While manually getting data from a website technically qualifies as webscarping, these projects employ functions that allows the computer to scrape data for the user.
+While manually getting data from a website technically qualifies as webscraping, these projects employ functions that allows the computer to scrape data for the user.
 
 <a href="https://github.com/Francis-Calingo/IBM-Capstone-1"> IBM Data Science Capstone Project: Stock Price Analysis</a>💻
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
@@ -135,6 +137,15 @@ While manually getting data from a website technically qualifies as webscarping,
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"/>
 
+## Web Development
+These projects employed various tools to develop and deploy websites and web applications.
+
+<a href="https://fecaling1997.z9.web.core.windows.net/"> Static Online Resume Hosted in Azure</a>
+
+## Cloud Environment
+These projects have been deployed in a Cloud environment (e.g., MS Azure).
+
+<a href="https://fecaling1997.z9.web.core.windows.net/"> Static Online Resume Hosted in Azure</a>
 
 ## Repos Under Construction
 Once deployed, these projects will be removed from this section and assigned to at least one of the above sections.
