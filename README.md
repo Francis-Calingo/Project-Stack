@@ -14,11 +14,14 @@
 * [Cloud Environment](#cloud-environment)
 * [Repos Under Construction](#repos-under-construction)
 
-#### Labels: Deployment Environment
+<details><summary><h2>Labels: Deployment Environment</h2></summary> 
+
 🎓University, 💼For an Employer, 💻Capstone Project, 🏠Personal Project
 
+</details>
 
-## Data Visualization and Analysis
+<details><summary><h2>Data Visualization and Analysis</h2></summary> 
+
 These projects incorporate processes that take data, then uses techniques that represents them as graphs or maps (data visualization), and clean and evaluate them to draw upon conclusions (data analysis).
 
 <a href="https://github.com/Francis-Calingo/Visualizing-Migration-in-Canada"> Visualizing Migration and Settlement Patterns in Canada</a>💻
@@ -48,8 +51,10 @@ These projects incorporate processes that take data, then uses techniques that r
 <img src="https://img.shields.io/badge/tableau-navy?logo=tableau&logoColor=white" alt="Tableau Badge"/>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"/>
 
+</details>
 
-## Mapping and Geospatial Analysis
+<details><summary><h2>Mapping and Geospatial Analysis</h2></summary> 
+
 These projects incorporate spatial data (i.e., data that is associated with geographical metrics such as latitude, longitude, geographic divisions such as provinces, coordinates, etc.) and generates maps (either as satellite maps or symbolically).
 
 <a href="https://github.com/Francis-Calingo/Philippines-Poverty-Choropleth-Map"> Choropleth Map Visualizing Poverty in the Philippines</a>💻
@@ -78,7 +83,10 @@ These projects incorporate spatial data (i.e., data that is associated with geog
 <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?logo=arcgis&logoColor=fff&style=plastic" alt="ArcGIS Badge"/>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"/>
 
-## Machine Learning
+</details>
+
+<details><summary><h2>Machine Learning</h2></summary> 
+
 Elements of machine learning, where algorithms were developed to train computers to execute processes that mimick human behaviour given a subset of data, and make predictions, were incorporated in these projects.
 
 <a href="https://github.com/Francis-Calingo/Fake-News-Classification-Model-Kaggle"> Kaggle Challenge: Fake News Classification Model</a>💻
@@ -92,7 +100,10 @@ Elements of machine learning, where algorithms were developed to train computers
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"/>
 
-## Statistical Analysis
+</details>
+
+<details><summary><h2>Statistical Analysis</h2></summary> 
+
 These projects uses statistical techniques and concepts such as correlation analysis and variance analysis in order to better understand and discover underlying patterns and trends.
 
 <a href="https://github.com/Francis-Calingo/CATEGORICAL-SOCIOECONOMIC-DATA-ANALYSIS-OF-CANADIAN-REGIONS"> Categorical Data Analysis Using R (Canadian Census Divisions)</a>🎓
@@ -103,7 +114,10 @@ These projects uses statistical techniques and concepts such as correlation anal
 <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=plastic" alt="R Badge"/> 
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"/>
 
-## Time-Series Analysis
+</details>
+
+<details><summary><h2>Time-Series Analysis</h2></summary> 
+
 These projects analyze a sequence of data taken over an interval of time and draw conclusions (e.g., daily COVID-19 cases and deaths, value of a stock over time).
 
 <a href="https://github.com/Francis-Calingo/Visualizing-Migration-in-Canada"> Visualizing Migration and Settlement Patterns in Canada</a>💻
@@ -117,7 +131,10 @@ These projects analyze a sequence of data taken over an interval of time and dra
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"/>
 
-## Natural Language Processing
+</details>
+
+<details><summary><h2>Natural Language Processing</h2></summary> 
+
 These projects implements algortithms that allow computers to understand, interpret, generate, and manipulate human language.
 
 <a href="https://github.com/Francis-Calingo/YouTube-API-Analysis-OMNI-Filipino-News"> Using YouTube API to Visualize and Analyze OMNI Filipino's News Coverage in 2024</a>💻
@@ -126,7 +143,10 @@ These projects implements algortithms that allow computers to understand, interp
 <a href="https://github.com/Francis-Calingo/Fake-News-Classification-Model-Kaggle"> Kaggle Challenge: Fake News Classification Model</a>💻
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white"/>
 
-## Webscraping
+</details>
+
+<details><summary><h2>Webscraping</h2></summary> 
+
 While manually getting data from a website technically qualifies as webscraping, these projects employ functions that allows the computer to scrape data for the user.
 
 <a href="https://github.com/Francis-Calingo/IBM-Capstone-1"> IBM Data Science Capstone Project: Stock Price Analysis</a>💻
@@ -136,7 +156,10 @@ While manually getting data from a website technically qualifies as webscraping,
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"/>
 
-## Web Development
+</details>
+
+<details><summary><h2>Web Development</h2></summary> 
+
 These projects employed various tools to develop and deploy websites and web applications.
 
 <a href="https://fecaling1997.z9.web.core.windows.net/"> Static Online Resume Hosted in Azure</a>
@@ -144,7 +167,10 @@ These projects employed various tools to develop and deploy websites and web app
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"/>
 <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" alt="Azure Badge"/>
 
-## Cloud Environment
+</details>
+
+<details><summary><h2>Cloud Environment</h2></summary> 
+
 These projects have been deployed in a Cloud environment (e.g., MS Azure).
 
 <a href="https://fecaling1997.z9.web.core.windows.net/"> Static Online Resume Hosted in Azure</a>
@@ -152,7 +178,10 @@ These projects have been deployed in a Cloud environment (e.g., MS Azure).
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"/>
 <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" alt="Azure Badge"/>
 
-## Repos Under Construction
+</details>
+
+<details><summary><h2>Repos Under Construction</h2></summary> 
+
 Once deployed, these projects will be removed from this section and assigned to at least one of the above sections.
 
 <a href="https://github.com/Francis-Calingo/Socioeconomic-Analysis-of-The-Philippines"> Dashboard of the Philippine's Economic Crisis</a>🏠
@@ -162,3 +191,5 @@ Once deployed, these projects will be removed from this section and assigned to 
 <a href="https://github.com/Francis-Calingo/Francis-Calingo.github.io"> GitHub.io Portfolio Website</a>🏠
 
 <a href="https://github.com/Francis-Calingo/MS-Azure-Projects"> Azure Projects</a>
+
+</details>
