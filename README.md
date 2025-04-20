@@ -21,10 +21,12 @@ These projects incorporate processes that take data, then uses techniques that r
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic" alt="Python Badge"/>
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/qgis-93b02?logo=qgis&logoColor=white"/>
 
 <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report"> Demographic Research on the Filipino Canadian Community</a>
 <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=plastic" alt="R Badge"/>  
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/qgis-93b02?logo=qgis&logoColor=white"/>
 
 <a href="https://github.com/Francis-Calingo/YouTube-API-Analysis-OMNI-Filipino-News"> Using YouTube API to Visualize and Analyze OMNI Filipino's News Coverage in 2024</a>
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white"/>
@@ -57,10 +59,12 @@ These projects incorporate spatial data (i.e., data that is associated with geog
 <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report"> Demographic Research on the Filipino Canadian Community</a>
 <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=plastic" alt="R Badge"/> 
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/qgis-93b02?logo=qgis&logoColor=white"/>
 
 <a href="https://github.com/Francis-Calingo/Visualizing-Migration-in-Canada"> Visualizing Migration and Settlement Patterns in Canada</a>
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/qgis-93b02?logo=qgis&logoColor=white"/>
 
 <a href="https://github.com/Francis-Calingo/IBM-Capstone-2"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white"/>
@@ -106,6 +110,7 @@ These projects uses statistical techniques and concepts such as correlation anal
 <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report"> Demographic Research on the Filipino Canadian Community</a>
 <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=plastic" alt="R Badge"/> 
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/qgis-93b02?logo=qgis&logoColor=white"/>
 
 </details>
 
@@ -116,6 +121,7 @@ These projects analyze a sequence of data taken over an interval of time and dra
 <a href="https://github.com/Francis-Calingo/Visualizing-Migration-in-Canada"> Visualizing Migration and Settlement Patterns in Canada</a>
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/qgis-93b02?logo=qgis&logoColor=white"/>
 
 <a href="https://github.com/Francis-Calingo/IBM-Capstone-1"> IBM Data Science Capstone Project: Stock Price Analysis</a>
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white"/>
@@ -164,6 +170,7 @@ These projects employed various tools to develop and deploy websites and web app
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"/>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/Leaflet-199900?logo=Leaflet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/>
 
 
