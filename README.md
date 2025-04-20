@@ -189,5 +189,6 @@ Once deployed, these projects will be removed from this section and assigned to 
 <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"/>
 
 <a href="https://github.com/Francis-Calingo/MS-Azure-Projects"> Azure Projects</a>
+<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" alt="Azure Badge"/>
 
 </details>
