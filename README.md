@@ -1,32 +1,145 @@
 # Project Stack
 <p>Here is a sample list of projects categorized by topic. Some projects appear more than once since they cover more than one topic (for example, the project "Using YouTube API to Visualize and Analyze OMNI Filipino's News Coverage in 2024" incorporated elements of data visualization and natural language processing, and is therefore listed under both topics). Some of these projects are not hosted in my GitHub profile, but are instead hosted in external websites such as Tableau Public.</p>
 
-## Table of Contents
-* [Data Visualization and Analysis](#data-visualization-and-analysis)
-* [Mapping and Geospatial Analysis](#mapping-and-geospatial-analysis)
-* [Machine Learning](#machine-learning)
-* [Statistical Analysis](#statistical-analysis)
-* [Time-Series Analysis](#time-series-analysis)
-* [Natural Language Processing](#natural-language-processing)
-* [Webscraping](#webscraping)
-* [Web development](#web-development)
-* [Cloud Environment](#cloud-environment)
-* [Repos Under Construction](#repos-under-construction)
+---
 
-<details><summary><h2>Data Visualization and Analysis</h2></summary> 
+## **Filter by Tool**
+[Python](#python) | [R](#r) | [Excel](#excel) | [SQL](#sql) | [Tableau](#tableau) | [ArcGIS/PostGIS/QGIS](#arcgis-postgis-qgis) | [Git](#git) | [Cloud Environment](#cloud-environment) | [Web development](#web-development)
 
-These projects incorporate processes that take data, then uses techniques that represents them as graphs or maps (data visualization), and clean and evaluate them to draw upon conclusions (data analysis).
+## **Filter by Topic**
+[Migration](#migration) | [Public Policy](#public-policy) | [Demographics](#demographics) | [Language Access](#language-access) | [Job Search](#job-search)
 
-<a href="https://github.com/Francis-Calingo/Visualizing-Migration-in-Canada"> Visualizing Migration and Settlement Patterns in Canada</a>
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic" alt="Python Badge"/>
+## **Filter by Data Concept**
+[Data Visualization and Analysis](#data-visualization-and-analysis) | [Mapping and Geospatial Analysis](#mapping-and-geospatial-analysis) | [Machine Learning](#machine-learning) | [Statistical Analysis](#statistical-analysis) | [Time-Series Analysis](#time-series-analysis) | [Natural Language Processing](#natural-language-processing) | [Webscraping](#webscraping) | 
+
+---
+
+---
+
+## **Featured Projects**
+
+### 1. **Geospatial Migration Dashboard**
+**Tools**: <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic" alt="Python Badge"/>
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/qgis-93b02?logo=qgis&logoColor=white"/>
+**Topic**: Migration  
+**Concepts**: Geospatial Analysis, Data Visualization  
+[View Repo](https://github.com/francis-calingo/geospatial-migration)
+<a href="https://github.com/Francis-Calingo/Visualizing-Migration-in-Canada"> Visualizing Migration and Settlement Patterns in Canada</a>
+
+> A dashboard visualizing Filipino Canadian migration patterns across Toronto using interactive maps and census data.
+
+---
+
+### 2. **Election Sentiment Tracker**
+**Tools**: <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=plastic" alt="R Badge"/>  
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/qgis-93b02?logo=qgis&logoColor=white"/> 
+**Topic**: Public Policy, Democratic Institutions  
+**Concepts**: NLP, Time Series  
+[View Repo](https://github.com/francis-calingo/election-sentiment) (Private - ask for access)
+<a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report"> Demographic Research on the Filipino Canadian Community</a>
+
+> Analyzes social media sentiment about Canadian electoral institutions using weekly scraped and tagged narrative data.
+
+---
+
+### 3. **Multilingual LLM Translator for Philippine Languages**
+**Tools**: Azure OpenAI, Python, Streamlit  
+**Topic**: Language Access  
+**Concepts**: NLP, LLMs, Dashboards  
+[View Repo](https://github.com/francis-calingo/ph-llm-translator)
+
+> A Streamlit app that translates English into Tagalog, Pangasinan, and Bikol using Azure’s LLMs—designed for equity-focused language access.
+
+---
+
+### 4. **Job Application Tracker with Data Insights**
+**Tools**: Python, Streamlit, Excel, Seaborn  
+**Topic**: Job Search, Career Analytics  
+**Concepts**: Dashboards, A/B Testing, Time Series  
+[View Repo](https://github.com/francis-calingo/job-app-tracker)
+
+> A personal job application tracker that visualizes application trends, outcomes, and A/B tested resume strategies.
+
+---
+
+## **Filtered by Tools**
+
+### Python
+
+* <a href="https://github.com/Francis-Calingo/Visualizing-Migration-in-Canada"> Visualizing Migration and Settlement Patterns in Canada</a>
+
+### R/RStudio
+
+* <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report"> Demographic Research on the Filipino Canadian Community</a>
+
+### Excel
+
+* <a href="https://github.com/Francis-Calingo/Visualizing-Migration-in-Canada"> Visualizing Migration and Settlement Patterns in Canada</a>
+
+* <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report"> Demographic Research on the Filipino Canadian Community</a>
+
+### SQL
+
+### Tableau
+
+### ArcGIS/PostGIS/QGIS
+
+* <a href="https://github.com/Francis-Calingo/Visualizing-Migration-in-Canada"> Visualizing Migration and Settlement Patterns in Canada</a>
+
+* <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report"> Demographic Research on the Filipino Canadian Community</a>
+
+
+
+### Git
+
+### Cloud Environment
+
+<a href="https://fecaling1997.z9.web.core.windows.net/"> Static Online Resume Hosted in Azure</a>
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" alt="Azure Badge"/>
+
+### Web Development
+
+<a href="https://fecaling1997.z9.web.core.windows.net/"> Static Online Resume Hosted in Azure</a>
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" alt="Azure Badge"/>
+
+<a href="https://github.com/Francis-Calingo/Francis-Calingo.github.io"> GitHub.io Portfolio Website</a>
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/Leaflet-199900?logo=Leaflet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/>
+
+---
+
+## **Filtered by Topics**
+
+### Migration
+
+<a href="https://github.com/Francis-Calingo/Visualizing-Migration-in-Canada"> Visualizing Migration and Settlement Patterns in Canada</a>
+
+### Demographics
+
+<a href="https://github.com/Francis-Calingo/Visualizing-Migration-in-Canada"> Visualizing Migration and Settlement Patterns in Canada</a>
+
+### Socioeconomic Research
+
+### Miscellaneous 
+
+## **Filtered by Data Concepts**
+
+### Data Visualization and Analysis
+>These projects incorporate processes that take data, then uses techniques that represents them as graphs or maps (data visualization), and clean and evaluate them to draw upon conclusions (data analysis).
+
+<a href="https://github.com/Francis-Calingo/Visualizing-Migration-in-Canada"> Visualizing Migration and Settlement Patterns in Canada</a>
 
 <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report"> Demographic Research on the Filipino Canadian Community</a>
-<img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=plastic" alt="R Badge"/>  
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/qgis-93b02?logo=qgis&logoColor=white"/>
 
 <a href="https://github.com/Francis-Calingo/YouTube-API-Analysis-OMNI-Filipino-News"> Using YouTube API to Visualize and Analyze OMNI Filipino's News Coverage in 2024</a>
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white"/>
@@ -46,11 +159,9 @@ These projects incorporate processes that take data, then uses techniques that r
 <img src="https://img.shields.io/badge/tableau-navy?logo=tableau&logoColor=white" alt="Tableau Badge"/>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"/>
 
-</details>
 
-<details><summary><h2>Mapping and Geospatial Analysis</h2></summary> 
-
-These projects incorporate spatial data (i.e., data that is associated with geographical metrics such as latitude, longitude, geographic divisions such as provinces, coordinates, etc.) and generates maps (either as satellite maps or symbolically).
+### Mapping and Geospatial Analysis
+>These projects incorporate spatial data (i.e., data that is associated with geographical metrics such as latitude, longitude, geographic divisions such as provinces, coordinates, etc.) and generates maps (either as satellite maps or symbolically).
 
 <a href="https://github.com/Francis-Calingo/Philippines-Poverty-Choropleth-Map"> Choropleth Map Visualizing Poverty in the Philippines</a>
 <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?logo=arcgis&logoColor=fff&style=plastic" alt="ArcGIS Badge"/>
@@ -80,11 +191,9 @@ These projects incorporate spatial data (i.e., data that is associated with geog
 <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?logo=arcgis&logoColor=fff&style=plastic" alt="ArcGIS Badge"/>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"/>
 
-</details>
 
-<details><summary><h2>Machine Learning</h2></summary> 
-
-Elements of machine learning, where algorithms were developed to train computers to execute processes that mimick human behaviour given a subset of data, and make predictions, were incorporated in these projects.
+### Machine Learning
+>Elements of machine learning, where algorithms were developed to train computers to execute processes that mimick human behaviour given a subset of data, and make predictions, were incorporated in these projects.
 
 <a href="https://github.com/Francis-Calingo/Fake-News-Classification-Model-Kaggle"> Kaggle Challenge: Fake News Classification Model</a>
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white"/>
@@ -97,11 +206,8 @@ Elements of machine learning, where algorithms were developed to train computers
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"/>
 
-</details>
-
-<details><summary><h2>Statistical Analysis</h2></summary> 
-
-These projects uses statistical techniques and concepts such as correlation analysis and variance analysis in order to better understand and discover underlying patterns and trends.
+### Statistical Analysis
+>These projects uses statistical techniques and concepts such as correlation analysis and variance analysis in order to better understand and discover underlying patterns and trends.
 
 <a href="https://github.com/Francis-Calingo/CATEGORICAL-SOCIOECONOMIC-DATA-ANALYSIS-OF-CANADIAN-REGIONS"> Categorical Data Analysis Using R (Canadian Census Divisions)</a>
 <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=plastic" alt="R Badge"/> 
@@ -112,11 +218,8 @@ These projects uses statistical techniques and concepts such as correlation anal
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/qgis-93b02?logo=qgis&logoColor=white"/>
 
-</details>
-
-<details><summary><h2>Time-Series Analysis</h2></summary> 
-
-These projects analyze a sequence of data taken over an interval of time and draw conclusions (e.g., daily COVID-19 cases and deaths, value of a stock over time).
+### Time-Series Analysis
+>These projects analyze a sequence of data taken over an interval of time and draw conclusions (e.g., daily COVID-19 cases and deaths, value of a stock over time).
 
 <a href="https://github.com/Francis-Calingo/Visualizing-Migration-in-Canada"> Visualizing Migration and Settlement Patterns in Canada</a>
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white"/>
@@ -130,11 +233,8 @@ These projects analyze a sequence of data taken over an interval of time and dra
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"/>
 
-</details>
-
-<details><summary><h2>Natural Language Processing</h2></summary> 
-
-These projects implements algortithms that allow computers to understand, interpret, generate, and manipulate human language.
+### Natural Language Processing
+>These projects implement algortithms that allow computers to understand, interpret, generate, and manipulate human language.
 
 <a href="https://github.com/Francis-Calingo/YouTube-API-Analysis-OMNI-Filipino-News"> Using YouTube API to Visualize and Analyze OMNI Filipino's News Coverage in 2024</a>
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white"/>
@@ -142,11 +242,8 @@ These projects implements algortithms that allow computers to understand, interp
 <a href="https://github.com/Francis-Calingo/Fake-News-Classification-Model-Kaggle"> Kaggle Challenge: Fake News Classification Model</a>
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white"/>
 
-</details>
-
-<details><summary><h2>Webscraping</h2></summary> 
-
-While manually getting data from a website technically qualifies as webscraping, these projects employ functions that allows the computer to scrape data for the user.
+### Webscraping
+>While manually getting data from a website technically qualifies as webscraping, these projects employ functions that allows the computer to scrape data for the user.
 
 <a href="https://github.com/Francis-Calingo/IBM-Capstone-1"> IBM Data Science Capstone Project: Stock Price Analysis</a>
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white"/>
@@ -155,35 +252,28 @@ While manually getting data from a website technically qualifies as webscraping,
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"/>
 
-</details>
-
-<details><summary><h2>Web Development</h2></summary> 
-
-These projects employed various tools to develop and deploy websites and web applications.
-
-<a href="https://fecaling1997.z9.web.core.windows.net/"> Static Online Resume Hosted in Azure</a>
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"/>
-<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" alt="Azure Badge"/>
-
-<a href="https://github.com/Francis-Calingo/Francis-Calingo.github.io"> GitHub.io Portfolio Website</a>
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/Leaflet-199900?logo=Leaflet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/>
 
 
-</details>
+
+
+## Table of Contents
+* [Data Visualization and Analysis](#data-visualization-and-analysis)
+* [Mapping and Geospatial Analysis](#mapping-and-geospatial-analysis)
+* [Machine Learning](#machine-learning)
+* [Statistical Analysis](#statistical-analysis)
+* [Time-Series Analysis](#time-series-analysis)
+* [Natural Language Processing](#natural-language-processing)
+* [Webscraping](#webscraping)
+* [Web development](#web-development)
+* [Cloud Environment](#cloud-environment)
+* [Repos Under Construction](#repos-under-construction)
+
 
 <details><summary><h2>Cloud Environment</h2></summary> 
 
 These projects have been deployed in a Cloud environment (e.g., MS Azure).
 
-<a href="https://fecaling1997.z9.web.core.windows.net/"> Static Online Resume Hosted in Azure</a>
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"/>
-<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" alt="Azure Badge"/>
+
 
 </details>
 
