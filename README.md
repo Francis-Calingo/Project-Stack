@@ -6,63 +6,39 @@
 ## **Filter by Tool**
 [Python](#python) | [R/R Studio](#rrstudio) | [Excel](#excel) | [SQL](#sql) | [Tableau](#tableau) | [ArcGIS/PostGIS/QGIS](#arcgis-postgis-qgis) | [Git](#git) | [Cloud Environment](#cloud-environment) | [Web development](#web-development)
 
-## **Filter by Topic**
-[Migration](#migration) | [Public Policy](#public-policy) | [Demographics](#demographics) | [Language Access](#language-access) | [Job Search](#job-search)
+## **Filter by Research Topic**
+[Migration](#migration) | [Demographics](#demographics) | [Socioeconomic Research](#socioeconomic-research) | [Spatial Analysis](#spatial-analysis) | [Socio-Cultural Research](#socio-cultural-research) | [Miscellaneous ](#miscellaneous )
 
 ## **Filter by Data Concept**
 [Data Visualization and Analysis](#data-visualization-and-analysis) | [Mapping and Geospatial Analysis](#mapping-and-geospatial-analysis) | [Machine Learning](#machine-learning) | [Statistical Analysis](#statistical-analysis) | [Time-Series Analysis](#time-series-analysis) | [Natural Language Processing](#natural-language-processing) | [Webscraping](#webscraping) 
 
 ---
 
----
-
 ## **Featured Projects**
 
-### 1. **Geospatial Migration Dashboard**
+### 1. **Visualizing Migration in Canada**
 **Tools**: <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic" alt="Python Badge"/>
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/qgis-93b02?logo=qgis&logoColor=white"/>
-**Topic**: Migration  
-**Concepts**: Geospatial Analysis, Data Visualization  
-[View Repo](https://github.com/francis-calingo/geospatial-migration)
-<a href="https://github.com/Francis-Calingo/Visualizing-Migration-in-Canada"> Visualizing Migration and Settlement Patterns in Canada</a>
 
-> A dashboard visualizing Filipino Canadian migration patterns across Toronto using interactive maps and census data.
+**Research Topics**: Migration, Demographics, Spatial Analysis
 
----
-
-### 2. **Election Sentiment Tracker**
-**Tools**: <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=plastic" alt="R Badge"/>  
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/qgis-93b02?logo=qgis&logoColor=white"/> 
-**Topic**: Public Policy, Democratic Institutions  
-**Concepts**: NLP, Time Series  
-[View Repo](https://github.com/francis-calingo/election-sentiment) (Private - ask for access)
-<a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report"> Demographic Research on the Filipino Canadian Community</a>
-
-> Analyzes social media sentiment about Canadian electoral institutions using weekly scraped and tagged narrative data.
+**Data Tags**: Data Visualization & Analysis, Mapping & Geospatial Analysis, Time-Series Analysis
+[View Repo](https://github.com/Francis-Calingo/Visualizing-Migration-in-Canada)
+> Comprehensive data visualizations and granular analysis (3 time-series plots, 3 categorical bar plots, 3 scatter plots, 1 choropleth map) of migration data from Statistics Canada. Thorough investigations of several aspects of migration and settlement patterns in Canada (e.g., age, gender, geographic distribution, countries and continents of origins, non-permanent residence).
 
 ---
 
-### 3. **Multilingual LLM Translator for Philippine Languages**
-**Tools**: Azure OpenAI, Python, Streamlit  
-**Topic**: Language Access  
-**Concepts**: NLP, LLMs, Dashboards  
-[View Repo](https://github.com/francis-calingo/ph-llm-translator)
+### 2. **Demographic Research on the Filipino Canadian Community (Elections Canada Project)**
+**Tools**: <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=plastic" alt="R Badge"/> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/qgis-93b02?logo=qgis&logoColor=white"/> 
 
-> A Streamlit app that translates English into Tagalog, Pangasinan, and Bikol using Azure’s LLMs—designed for equity-focused language access.
+**Research Topics**: Migration, Demographics, Socioeconomic Research, Spatial Analysis  
 
----
-
-### 4. **Job Application Tracker with Data Insights**
-**Tools**: Python, Streamlit, Excel, Seaborn  
-**Topic**: Job Search, Career Analytics  
-**Concepts**: Dashboards, A/B Testing, Time Series  
-[View Repo](https://github.com/francis-calingo/job-app-tracker)
-
-> A personal job application tracker that visualizes application trends, outcomes, and A/B tested resume strategies.
-
+**Data Tags**: Data Visualization & Analysis, Mapping & Geospatial Analysis, Statistical Analysis 
+[View Repo](https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report)
+> As the very first Filipino to work in Elections Canada's Environmental Monitoring Centre, I undertook a special project to help Elections Canada be better equipped with outreaching to the Filipino Canadian community, as gaps in their data remain.
+> 
 ---
 
 ## **Filtered by Tools**
@@ -144,17 +120,57 @@
 
 ---
 
-## **Filtered by Topics**
+## **Filtered by Research Topics**
 
 ### Migration
 
-<a href="https://github.com/Francis-Calingo/Visualizing-Migration-in-Canada"> Visualizing Migration and Settlement Patterns in Canada</a>
+* <a href="https://github.com/Francis-Calingo/Visualizing-Migration-in-Canada"> Visualizing Migration and Settlement Patterns in Canada</a>
+
+* <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report"> Demographic Research on the Filipino Canadian Community</a>
+
+* <a href="https://github.com/Francis-Calingo/Canadian-Rental-Prices-and-Immigration-ML-Predictive-Model"> Regression Modelling to Predict Canadian Rental Prices Based on Immigration Data</a>
+
+* <a href="https://public.tableau.com/app/profile/francis.emmanuel.calingo/viz/DataonRegisteredFilipinoEmigrantsSincethe1980s/Dashboard1"> Tableau Dashboard of Registered Filipino Emigrants Since the 1980s</a>
 
 ### Demographics
 
-<a href="https://github.com/Francis-Calingo/Visualizing-Migration-in-Canada"> Visualizing Migration and Settlement Patterns in Canada</a>
+* <a href="https://github.com/Francis-Calingo/Visualizing-Migration-in-Canada"> Visualizing Migration and Settlement Patterns in Canada</a>
+
+* <a href="https://github.com/Francis-Calingo/CATEGORICAL-SOCIOECONOMIC-DATA-ANALYSIS-OF-CANADIAN-REGIONS"> Categorical Data Analysis Using R (Canadian Census Divisions)</a>
+
+* <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report"> Demographic Research on the Filipino Canadian Community</a>
+
+* <a href="https://public.tableau.com/app/profile/francis.emmanuel.calingo/viz/DataonRegisteredFilipinoEmigrantsSincethe1980s/Dashboard1"> Tableau Dashboard of Registered Filipino Emigrants Since the 1980s</a>
 
 ### Socioeconomic Research
+
+* <a href="https://github.com/Francis-Calingo/CATEGORICAL-SOCIOECONOMIC-DATA-ANALYSIS-OF-CANADIAN-REGIONS"> Categorical Data Analysis Using R (Canadian Census Divisions)</a>
+
+* <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report"> Demographic Research on the Filipino Canadian Community</a>
+
+* <a href="https://github.com/Francis-Calingo/Canadian-Rental-Prices-and-Immigration-ML-Predictive-Model"> Regression Modelling to Predict Canadian Rental Prices Based on Immigration Data</a>
+
+* <a href="https://github.com/Francis-Calingo/Philippines-Poverty-Choropleth-Map"> Choropleth Map Visualizing Poverty in the Philippines</a>
+
+### Spatial Analysis 
+
+* <a href="https://github.com/Francis-Calingo/Visualizing-Migration-in-Canada"> Visualizing Migration and Settlement Patterns in Canada</a>
+
+* <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report"> Demographic Research on the Filipino Canadian Community</a>
+
+* <a href="https://github.com/Francis-Calingo/Philippines-Poverty-Choropleth-Map"> Choropleth Map Visualizing Poverty in the Philippines</a>
+
+* <a href="https://github.com/Francis-Calingo/Transit-and-Healthcare-Accessibility-in-the-Toronto-Filipino-Communities"> Mapping Transit and Healthcare Accessibility in Toronto Filipino Communities</a>
+
+* <a href="https://public.tableau.com/app/profile/francis.emmanuel.calingo/viz/DataonRegisteredFilipinoEmigrantsSincethe1980s/Dashboard1"> Tableau Dashboard of Registered Filipino Emigrants Since the 1980s</a>
+
+* <a href="https://storymaps.arcgis.com/stories/44ef21a201d04242942a9573d5d62919 "> ArcGIS StoryMap: Mapping the Decline of Philippine Regional Languages</a>
+
+### Socio-Cultural Research
+
+* <a href="https://github.com/Francis-Calingo/YouTube-API-Analysis-OMNI-Filipino-News"> Using YouTube API to Visualize and Analyze OMNI Filipino's News Coverage in 2024</a>
+
+* <a href="https://storymaps.arcgis.com/stories/44ef21a201d04242942a9573d5d62919 "> ArcGIS StoryMap: Mapping the Decline of Philippine Regional Languages</a>
 
 ### Miscellaneous 
 
@@ -163,6 +179,8 @@
 * <a href="https://github.com/Francis-Calingo/IBM-Capstone-1"> IBM Data Science Capstone Project: Stock Price Analysis</a>
 
 * <a href="https://github.com/Francis-Calingo/IBM-Capstone-2"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>
+
+* <a href="https://github.com/Francis-Calingo/Fake-News-Classification-Model-Kaggle"> Kaggle Challenge: Fake News Classification Model</a>
 
 ## **Filtered by Data Concepts**
 
@@ -242,5 +260,3 @@
 * <a href="https://github.com/Francis-Calingo/IBM-Capstone-1"> IBM Data Science Capstone Project: Stock Price Analysis</a>
 
 * <a href="https://github.com/Francis-Calingo/IBM-Capstone-2"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>
-
-</details>
