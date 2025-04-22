@@ -39,7 +39,7 @@
 [View Repo](https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report)
 > As the very first Filipino to work in Elections Canada's Environmental Monitoring Centre, I undertook a special project to help Elections Canada be better equipped with outreaching to the Filipino Canadian community, as gaps in their data remain.
 
-[Back to Table of Contents](#table-of-contents)
+[<b>Back to Table of Contents</b>](#table-of-contents)
 
 ---
 
@@ -120,7 +120,7 @@
 
 * <a href="https://github.com/Francis-Calingo/Francis-Calingo.github.io"> GitHub.io Portfolio Website</a>
 
-[Back to Table of Contents](#table-of-contents)
+[<b>Back to Table of Contents</b>](#table-of-contents)
 
 ---
 
@@ -186,7 +186,7 @@
 
 * <a href="https://github.com/Francis-Calingo/Fake-News-Classification-Model-Kaggle"> Kaggle Challenge: Fake News Classification Model</a>
 
-[Back to Table of Contents](#table-of-contents)
+[<b>Back to Table of Contents</b>](#table-of-contents)
 
 ## **Filtered by Data Concepts**
 
@@ -267,4 +267,4 @@
 
 * <a href="https://github.com/Francis-Calingo/IBM-Capstone-2"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>
 
-[Back to Table of Contents](#table-of-contents)
+[<b>Back to Table of Contents</b>](#table-of-contents)
