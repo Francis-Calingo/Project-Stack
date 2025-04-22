@@ -3,6 +3,8 @@
 
 ---
 
+## **Table of Contents**
+
 ## **Filter by Tool**
 [Python](#python) | [R/R Studio](#rrstudio) | [Excel](#excel) | [SQL](#sql) | [Tableau](#tableau) | [ArcGIS/PostGIS/QGIS](#arcgis-postgis-qgis) | [Git](#git) | [Cloud Environment](#cloud-environment) | [Web development](#web-development)
 
@@ -28,8 +30,6 @@
 [View Repo](https://github.com/Francis-Calingo/Visualizing-Migration-in-Canada)
 > Comprehensive data visualizations and granular analysis (3 time-series plots, 3 categorical bar plots, 3 scatter plots, 1 choropleth map) of migration data from Statistics Canada. Thorough investigations of several aspects of migration and settlement patterns in Canada (e.g., age, gender, geographic distribution, countries and continents of origins, non-permanent residence).
 
----
-
 ### 2. **Demographic Research on the Filipino Canadian Community (Elections Canada Project)**
 **Tools**: <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=plastic" alt="R Badge"/> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/qgis-93b02?logo=qgis&logoColor=white"/> 
 
@@ -38,7 +38,9 @@
 **Data Tags**: Data Visualization & Analysis, Mapping & Geospatial Analysis, Statistical Analysis 
 [View Repo](https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report)
 > As the very first Filipino to work in Elections Canada's Environmental Monitoring Centre, I undertook a special project to help Elections Canada be better equipped with outreaching to the Filipino Canadian community, as gaps in their data remain.
-> 
+
+[Back to Table of Contents](#table-of-contents)
+
 ---
 
 ## **Filtered by Tools**
@@ -118,6 +120,8 @@
 
 * <a href="https://github.com/Francis-Calingo/Francis-Calingo.github.io"> GitHub.io Portfolio Website</a>
 
+[Back to Table of Contents](#table-of-contents)
+
 ---
 
 ## **Filtered by Research Topics**
@@ -181,6 +185,8 @@
 * <a href="https://github.com/Francis-Calingo/IBM-Capstone-2"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>
 
 * <a href="https://github.com/Francis-Calingo/Fake-News-Classification-Model-Kaggle"> Kaggle Challenge: Fake News Classification Model</a>
+
+[Back to Table of Contents](#table-of-contents)
 
 ## **Filtered by Data Concepts**
 
@@ -260,3 +266,5 @@
 * <a href="https://github.com/Francis-Calingo/IBM-Capstone-1"> IBM Data Science Capstone Project: Stock Price Analysis</a>
 
 * <a href="https://github.com/Francis-Calingo/IBM-Capstone-2"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>
+
+[Back to Table of Contents](#table-of-contents)
