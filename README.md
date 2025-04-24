@@ -27,6 +27,7 @@
 **Research Topics**: Migration, Demographics, Spatial Analysis
 
 **Data Tags**: Data Visualization & Analysis, Mapping & Geospatial Analysis, Time-Series Analysis
+
 [View Repo](https://github.com/Francis-Calingo/Visualizing-Migration-in-Canada)
 > Comprehensive data visualizations and granular analysis (3 time-series plots, 3 categorical bar plots, 3 scatter plots, 1 choropleth map) of migration data from Statistics Canada. Thorough investigations of several aspects of migration and settlement patterns in Canada (e.g., age, gender, geographic distribution, countries and continents of origins, non-permanent residence).
 
@@ -36,6 +37,7 @@
 **Research Topics**: Migration, Demographics, Socioeconomic Research, Spatial Analysis  
 
 **Data Tags**: Data Visualization & Analysis, Mapping & Geospatial Analysis, Statistical Analysis 
+
 [View Repo](https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report)
 > As the very first Filipino to work in Elections Canada's Environmental Monitoring Centre, I undertook a special project to help Elections Canada be better equipped with outreaching to the Filipino Canadian community, as gaps in their data remain.
 
@@ -45,6 +47,7 @@
 **Research Topics**: Socio-Cultural Research 
 
 **Data Tags**: Data Visualization & Analysis, Natural Language Processing
+
 [View Repo](https://github.com/Francis-Calingo/YouTube-API-Analysis-OMNI-Filipino-News)
 > Using YouTube API to scrape data on Omni News' Filipino playlist, then executed data cleaning, manipulation, visualization, and analysis in Python to ascertain online user engagement.
 
@@ -54,8 +57,9 @@
 **Research Topics**: Demographics, Socioeconomic Research 
 
 **Data Tags**: Statistical Analysis
+
 [View Repo](https://github.com/Francis-Calingo/CATEGORICAL-SOCIOECONOMIC-DATA-ANALYSIS-OF-CANADIAN-REGIONS)
-> UWith huge variations within its population in terms of ethnicity, and educational, health and economic indices, I used R to investigate which socioeconomic variables had the biggest causal effect on each Canadian census division's net migration.
+> With huge variations within its population in terms of ethnicity, and educational, health and economic indices, I used R to investigate which socioeconomic variables had the biggest causal effect on each Canadian census division's net migration.
 
 [<b>Back to the Top of this Section</b>](#featured-projects) | [<b>Back to Table of Contents</b>](#table-of-contents)
 
