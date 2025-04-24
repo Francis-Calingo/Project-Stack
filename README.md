@@ -39,7 +39,25 @@
 [View Repo](https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report)
 > As the very first Filipino to work in Elections Canada's Environmental Monitoring Centre, I undertook a special project to help Elections Canada be better equipped with outreaching to the Filipino Canadian community, as gaps in their data remain.
 
-[<b>Back to Table of Contents</b>](#table-of-contents)
+### 3. **OMNI News Filipino's 2024 Year-in-Review: Ethnic Media Analysis using YouTube API**
+**Tools**: <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white"/>
+
+**Research Topics**: Socio-Cultural Research 
+
+**Data Tags**: Data Visualization & Analysis, Natural Language Processing
+[View Repo](https://github.com/Francis-Calingo/YouTube-API-Analysis-OMNI-Filipino-News)
+> Using YouTube API to scrape data on Omni News' Filipino playlist, then executed data cleaning, manipulation, visualization, and analysis in Python to ascertain online user engagement.
+
+### 4. **Categorical Data Analysis Using R (Canadian Census Divisions)**
+**Tools**: <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=plastic" alt="R Badge"/> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"/>
+
+**Research Topics**: Demographics, Socioeconomic Research 
+
+**Data Tags**: Statistical Analysis
+[View Repo](https://github.com/Francis-Calingo/CATEGORICAL-SOCIOECONOMIC-DATA-ANALYSIS-OF-CANADIAN-REGIONS)
+> UWith huge variations within its population in terms of ethnicity, and educational, health and economic indices, I used R to investigate which socioeconomic variables had the biggest causal effect on each Canadian census division's net migration.
+
+[<b>Back to the Top of this Section</b>](#featured-projects) | [<b>Back to Table of Contents</b>](#table-of-contents)
 
 ---
 
@@ -120,7 +138,7 @@
 
 * <a href="https://github.com/Francis-Calingo/Francis-Calingo.github.io"> GitHub.io Portfolio Website</a>
 
-[<b>Back to Table of Contents</b>](#table-of-contents)
+[<b>Back to the Top of this Section</b>](#filtered-by-tools) | [<b>Back to Table of Contents</b>](#table-of-contents)
 
 ---
 
@@ -186,7 +204,7 @@
 
 * <a href="https://github.com/Francis-Calingo/Fake-News-Classification-Model-Kaggle"> Kaggle Challenge: Fake News Classification Model</a>
 
-[<b>Back to Table of Contents</b>](#table-of-contents)
+[<b>Back to the Top of this Section</b>](#filtered-by-research-topics) | [<b>Back to Table of Contents</b>](#table-of-contents)
 
 ## **Filtered by Data Concepts**
 
@@ -267,4 +285,4 @@
 
 * <a href="https://github.com/Francis-Calingo/IBM-Capstone-2"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>
 
-[<b>Back to Table of Contents</b>](#table-of-contents)
+[<b>Back to the Top of this Section</b>](#filtered-by-data-concepts) | [<b>Back to Table of Contents</b>](#table-of-contents)
