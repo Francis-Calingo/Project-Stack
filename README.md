@@ -31,15 +31,15 @@
 [View Repo](https://github.com/Francis-Calingo/Visualizing-Migration-in-Canada)
 > Comprehensive data visualizations and granular analysis (3 time-series plots, 3 categorical bar plots, 3 scatter plots, 1 choropleth map) of migration data from Statistics Canada. Thorough investigations of several aspects of migration and settlement patterns in Canada (e.g., age, gender, geographic distribution, countries and continents of origins, non-permanent residence).
 
-### 2. **Demographic Research on the Filipino Canadian Community (Elections Canada Project)**
+### 2. **Demographic Research on the Filipino Canadian Community (Two Elections Canada Projects)**
 **Tools**: <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=plastic" alt="R Badge"/> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/qgis-93b02?logo=qgis&logoColor=white"/> 
 
 **Research Topics**: Migration, Demographics, Socioeconomic Research, Spatial Analysis  
 
 **Data Tags**: Data Visualization & Analysis, Mapping & Geospatial Analysis, Statistical Analysis 
 
-[View Repo](https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report)
-> As the very first Filipino to work in Elections Canada's Environmental Monitoring Centre, I undertook a special project to help Elections Canada be better equipped with outreaching to the Filipino Canadian community, as gaps in their data remain.
+Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report) | Ilocano Language Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Ilocano-Speakers-Canada/)
+> As the very first Filipino to work in Elections Canada's Environmental Monitoring Centre, I undertook two special projects to help Elections Canada be better equipped with outreaching to the Filipino Canadian community, as gaps in their data remain. These two repos on the demographics of Filipino Canadians and Ilocano speakers in Canada complement the quantitative and qualitative research on the two communities' settlement patterns and media presence.
 
 ### 3. **OMNI News Filipino's 2024 Year-in-Review: Ethnic Media Analysis using YouTube API**
 **Tools**: <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white"/>
