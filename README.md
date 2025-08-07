@@ -85,6 +85,8 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 
 * <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report"> Demographic Research on the Filipino Canadian Community</a>
 
+* <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Ilocano-Speakers-Canada"> Ilocano Language Community in Canada</a>
+
 * <a href="https://github.com/Francis-Calingo/CATEGORICAL-SOCIOECONOMIC-DATA-ANALYSIS-OF-CANADIAN-REGIONS"> Categorical Data Analysis Using R (Canadian Census Divisions)</a>
 
 ### Excel
@@ -92,6 +94,8 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 * <a href="https://github.com/Francis-Calingo/Visualizing-Migration-in-Canada"> Visualizing Migration and Settlement Patterns in Canada</a>
 
 * <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report"> Demographic Research on the Filipino Canadian Community</a>
+
+* <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Ilocano-Speakers-Canada"> Ilocano Language Community in Canada</a>
 
 * <a href="https://github.com/Francis-Calingo/NHL-POINT-PERCENTAGE-ANALYSIS"> NHL Point Percentage Visualization and Analysis</a>
 
@@ -157,6 +161,8 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 
 * <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report"> Demographic Research on the Filipino Canadian Community</a>
 
+* <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Ilocano-Speakers-Canada"> Ilocano Language Community in Canada</a>
+
 * <a href="https://public.tableau.com/app/profile/francis.emmanuel.calingo/viz/DataonRegisteredFilipinoEmigrantsSincethe1980s/Dashboard1"> Tableau Dashboard of Registered Filipino Emigrants Since the 1980s</a>
 
 ### Socioeconomic Research
@@ -164,6 +170,8 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 * <a href="https://github.com/Francis-Calingo/CATEGORICAL-SOCIOECONOMIC-DATA-ANALYSIS-OF-CANADIAN-REGIONS"> Categorical Data Analysis Using R (Canadian Census Divisions)</a>
 
 * <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report"> Demographic Research on the Filipino Canadian Community</a>
+
+* <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Ilocano-Speakers-Canada"> Ilocano Language Community in Canada</a>
 
 * <a href="https://github.com/Francis-Calingo/Canadian-Rental-Prices-and-Immigration-ML-Predictive-Model"> Regression Modelling to Predict Canadian Rental Prices Based on Immigration Data</a>
 
@@ -174,6 +182,8 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 * <a href="https://github.com/Francis-Calingo/Visualizing-Migration-in-Canada"> Visualizing Migration and Settlement Patterns in Canada</a>
 
 * <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report"> Demographic Research on the Filipino Canadian Community</a>
+
+* <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Ilocano-Speakers-Canada"> Ilocano Language Community in Canada</a>
 
 * <a href="https://github.com/Francis-Calingo/Philippines-Poverty-Choropleth-Map"> Choropleth Map Visualizing Poverty in the Philippines</a>
 
@@ -208,6 +218,8 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 
 * <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report"> Demographic Research on the Filipino Canadian Community</a>
 
+* <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Ilocano-Speakers-Canada"> Ilocano Language Community in Canada</a>
+
 * <a href="https://github.com/Francis-Calingo/YouTube-API-Analysis-OMNI-Filipino-News"> Using YouTube API to Visualize and Analyze OMNI Filipino's News Coverage in 2024</a>
 
 * <a href="https://github.com/Francis-Calingo/IBM-Capstone-1"> IBM Data Science Capstone Project: Stock Price Analysis</a>
@@ -224,6 +236,8 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 * <a href="https://github.com/Francis-Calingo/Philippines-Poverty-Choropleth-Map"> Choropleth Map Visualizing Poverty in the Philippines</a>
 
 * <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report"> Demographic Research on the Filipino Canadian Community</a>
+
+* <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Ilocano-Speakers-Canada"> Ilocano Language Community in Canada</a>
 
 * <a href="https://github.com/Francis-Calingo/Visualizing-Migration-in-Canada"> Visualizing Migration and Settlement Patterns in Canada</a>
 
@@ -251,10 +265,14 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 
 * <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Filipino-Canadian-Demographic-Report"> Demographic Research on the Filipino Canadian Community</a>
 
+* <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Ilocano-Speakers-Canada"> Ilocano Language Community in Canada</a>
+
 ### Time-Series Analysis
 >These projects analyze a sequence of data taken over an interval of time and draw conclusions (e.g., daily COVID-19 cases and deaths, value of a stock over time).
 
 * <a href="https://github.com/Francis-Calingo/Visualizing-Migration-in-Canada"> Visualizing Migration and Settlement Patterns in Canada</a>
+
+* <a href="https://github.com/Francis-Calingo/ELECTIONS-CANADA-RESEARCH-PROJECT-Ilocano-Speakers-Canada"> Ilocano Language Community in Canada</a>
 
 * <a href="https://github.com/Francis-Calingo/IBM-Capstone-1"> IBM Data Science Capstone Project: Stock Price Analysis</a>
 
