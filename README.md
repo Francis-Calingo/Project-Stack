@@ -6,7 +6,7 @@
 ## **Table of Contents**
 
 ## **Filter by Tool**
-[Python](#python) | [R/R Studio](#rrstudio) | [Excel](#excel) | [SQL](#sql) | [Tableau](#tableau) | [ArcGIS/PostGIS/QGIS](#arcgis-postgis-qgis) | [Git](#git) | [Cloud Environment](#cloud-environment) | [Web development](#web-development)
+[Python](#python) | [R/R Studio](#rrstudio) | [Excel](#excel) | [SQL](#sql) | [Tableau](#tableau) | [ArcGIS/PostGIS/QGIS](#arcgis-postgis-qgis) | [Git](#git) | [Web development](#web-development)
 
 ## **Filter by Research Topic**
 [Migration](#migration) | [Demographics](#demographics) | [Socioeconomic Research](#socioeconomic-research) | [Spatial Analysis](#spatial-analysis) | [Socio-Cultural Research](#socio-cultural-research) | [Miscellaneous ](#miscellaneous )
