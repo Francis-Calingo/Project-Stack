@@ -79,8 +79,6 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 
 * <a href="https://github.com/Francis-Calingo/NHL-POINT-PERCENTAGE-ANALYSIS"> NHL Point Percentage Visualization and Analysis</a>
 
-* <a href="https://github.com/Francis-Calingo/Fake-News-Classification-Model-Kaggle"> Kaggle Challenge: Fake News Classification Model</a>
-
 * <a href="https://github.com/Francis-Calingo/Canadian-Rental-Prices-and-Immigration-ML-Predictive-Model"> Regression Modelling to Predict Canadian Rental Prices Based on Immigration Data</a>
 
 ### R/RStudio
@@ -129,16 +127,9 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 
 ### Git
 
-<a href="https://github.com/Francis-Calingo/Francis-Calingo.github.io"> GitHub.io Portfolio Website</a>
-
-### Cloud Environment
-
-<a href="https://fecaling1997.z9.web.core.windows.net/"> Static Online Resume Hosted in Azure</a>
-
+* <a href="https://github.com/Francis-Calingo/Francis-Calingo.github.io"> GitHub.io Portfolio Website</a>
 
 ### Web Development
-
-* <a href="https://fecaling1997.z9.web.core.windows.net/"> Static Online Resume Hosted in Azure</a>
 
 * <a href="https://github.com/Francis-Calingo/Francis-Calingo.github.io"> GitHub.io Portfolio Website</a>
 
@@ -206,8 +197,6 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 
 * <a href="https://github.com/Francis-Calingo/IBM-Capstone-2"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>
 
-* <a href="https://github.com/Francis-Calingo/Fake-News-Classification-Model-Kaggle"> Kaggle Challenge: Fake News Classification Model</a>
-
 [<b>Back to the Top of this Section</b>](#filtered-by-research-topics) | [<b>Back to Table of Contents</b>](#table-of-contents)
 
 ## **Filtered by Data Concepts**
@@ -251,8 +240,6 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 ### Machine Learning
 >Elements of machine learning, where algorithms were developed to train computers to execute processes that mimick human behaviour given a subset of data, and make predictions, were incorporated in these projects.
 
-* <a href="https://github.com/Francis-Calingo/Fake-News-Classification-Model-Kaggle"> Kaggle Challenge: Fake News Classification Model</a>
-
 * <a href="https://github.com/Francis-Calingo/Canadian-Rental-Prices-and-Immigration-ML-Predictive-Model"> Regression Modelling to Predict Canadian Rental Prices Based on Immigration Data</a>
 
 * <a href="https://github.com/Francis-Calingo/IBM-Capstone-2"> IBM Data Science Capstone Project: Data Science for Rocket Science</a>
@@ -277,8 +264,6 @@ Filipino Community in Canada: [View Repo](https://github.com/Francis-Calingo/ELE
 >These projects implement algortithms that allow computers to understand, interpret, generate, and manipulate human language.
 
 * <a href="https://github.com/Francis-Calingo/YouTube-API-Analysis-OMNI-Filipino-News"> Using YouTube API to Visualize and Analyze OMNI Filipino's News Coverage in 2024</a>
-
-* <a href="https://github.com/Francis-Calingo/Fake-News-Classification-Model-Kaggle"> Kaggle Challenge: Fake News Classification Model</a>
 
 ### Webscraping
 >While manually getting data from a website technically qualifies as webscraping, these projects employ functions that allows the computer to scrape data for the user.
